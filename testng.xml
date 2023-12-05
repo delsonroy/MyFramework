@@ -1,0 +1,14 @@
+<suite name="Suite">
+	<test name="Test">
+		<parameter name = "grid" value="no"/>
+		<Parameter name = "gridURL" value=" http://192.168.111.1:4444"/>
+		<parameter name="browser" value="chrome" />
+		<parameter name="appUrl" value="https://www.google.com" />
+		<parameter name="ITO" value="10" />
+		<parameter name="ETO" value="9" />
+
+		<packages>
+			<package name="script" />
+		</packages>
+	</test>
+</suite> 
