@@ -3,7 +3,7 @@
 		<parameter name = "grid" value="no"/>
 		<Parameter name = "gridURL" value=" http://192.168.111.1:4444"/>
 		<parameter name="browser" value="chrome" />
-		<parameter name="appUrl" value="https://www.google.com" />
+		<parameter name="appUrl" value="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" />
 		<parameter name="ITO" value="10" />
 		<parameter name="ETO" value="9" />
 
