@@ -80,6 +80,7 @@ public class BaseTest {
 		if(status==2)
 		{
 			TakesScreenshot t=(TakesScreenshot)driver;
+			//t
 			
 					
 			
